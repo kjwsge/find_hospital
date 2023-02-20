@@ -1,0 +1,34 @@
+@charset "UTF-8";
+#login {
+    text-align: center;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    margin-top: 80px;
+    margin-bottom: 50px;
+    width: 15%;
+}
+#loginbutton {
+    margin-top: 30px;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}
+input {
+    background-color: #f6f6f6;
+    width: 400px;
+    height: 50px;
+    border: none;
+    border-radius: 25px;
+}
+button {
+    padding: 22px 22px;
+    margin-left: 3px;
+}
+#regMember{
+    margin-top: 20px;
+}
